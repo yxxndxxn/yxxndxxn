@@ -1,4 +1,4 @@
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" className="flex">
 <!--돼지-->
   <img
     src="https://render.gitanimals.org/lines/yxxndxxn?pet-id=650018892284151396"
